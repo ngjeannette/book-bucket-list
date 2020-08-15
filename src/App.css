@@ -1,0 +1,169 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* navbar */
+.navBar {
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    background: #eeee;
+    justify-content: space-between;
+    padding: 0 40px;
+    flex-wrap: wrap;
+}
+.navBar h1 {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500;
+}
+.navBar-header {
+    font-weight: 500;
+    display: flex;
+}
+
+.navBar-header a{
+  font-size: 26px;
+}
+
+.signup-login {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.signup-login > span {
+      padding: 16px;
+}
+
+.genre-section {
+      box-shadow: 0 1px 2px 0 rgba(235,235,235,0.5);
+    border-bottom: 1px solid #dedede;
+    padding: 10px 40px;
+        display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.genre{
+  padding:10px;
+}
+
+.search-section{
+  display: flex;
+  padding: 10px 40px;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.content-section {
+  height: calc(100vh - 207px);
+}
+
+.register-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
+}
+.register {
+  height: 280px;
+  width: 275px;
+}
+
+
+.item-card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.ant-card-bordered{
+    margin:5px !important;
+    border:none !important;
+}
+
+.ant-card-cover img {
+    height: 275px !important;
+    object-fit: contain;
+    padding-top: 20px;
+}
+
+.ant-card-meta-title {
+  white-space: break-spaces !important;
+  text-overflow: none !important;
+}
+
+
+.ant-card-body{
+  text-align: center;
+}
+
+.site-drawer-render-in-current-wrapper {
+  position: relative;
+  height: 200px;
+  padding: 48px;
+  overflow: hidden;
+  text-align: center;
+  background: #fafafa;
+  border: 1px solid #ebedf0;
+  border-radius: 2px;
+}
+
+.list-section {
+  padding: 0 40px;
+
+}
+.list-item-header {
+  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+}
+
+.list-item-item {
+  display: flex;
+  margin: 10px 0;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.item-info{
+      display: flex;
+}
+
+.item-info  div:first-child {
+  margin-right: 20px;
+}
+
+.home-section {
+  display: flex;
+  margin: 0 40px;
+}
+
+.bookimage {
+ height: 50vh;
+ width: 100%;
+}
+
+.homedescription {
+  display: flex;
+  padding: 0 10px;
+  align-self: center;
+  flex-direction: column;
+}
+
+.bookimagecover {
+ height: 100%;
+ width: 100%;
+ object-fit: cover;
+}
+
+.homedescriptionregister{
+  margin-bottom: 10px;
+}
+
+.empty-book-section{
+  text-align: center;
+}
