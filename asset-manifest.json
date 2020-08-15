@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/book-bucket-list/static/css/main.57cf4931.chunk.css",
+    "main.js": "/book-bucket-list/static/js/main.a7f7b175.chunk.js",
+    "main.js.map": "/book-bucket-list/static/js/main.a7f7b175.chunk.js.map",
+    "runtime-main.js": "/book-bucket-list/static/js/runtime-main.711cac59.js",
+    "runtime-main.js.map": "/book-bucket-list/static/js/runtime-main.711cac59.js.map",
+    "static/css/2.11a187e6.chunk.css": "/book-bucket-list/static/css/2.11a187e6.chunk.css",
+    "static/js/2.6950a81a.chunk.js": "/book-bucket-list/static/js/2.6950a81a.chunk.js",
+    "static/js/2.6950a81a.chunk.js.map": "/book-bucket-list/static/js/2.6950a81a.chunk.js.map",
+    "index.html": "/book-bucket-list/index.html",
+    "precache-manifest.d7c5ccaba8e2512ba2a54488bfce53f9.js": "/book-bucket-list/precache-manifest.d7c5ccaba8e2512ba2a54488bfce53f9.js",
+    "service-worker.js": "/book-bucket-list/service-worker.js",
+    "static/css/2.11a187e6.chunk.css.map": "/book-bucket-list/static/css/2.11a187e6.chunk.css.map",
+    "static/css/main.57cf4931.chunk.css.map": "/book-bucket-list/static/css/main.57cf4931.chunk.css.map",
+    "static/js/2.6950a81a.chunk.js.LICENSE.txt": "/book-bucket-list/static/js/2.6950a81a.chunk.js.LICENSE.txt",
+    "static/media/bookcover.jpg": "/book-bucket-list/static/media/bookcover.cbdaca4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.711cac59.js",
+    "static/css/2.11a187e6.chunk.css",
+    "static/js/2.6950a81a.chunk.js",
+    "static/css/main.57cf4931.chunk.css",
+    "static/js/main.a7f7b175.chunk.js"
+  ]
+}
